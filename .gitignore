@@ -1,0 +1,14 @@
+# Publish only reviewed result files. Everything else is excluded.
+*
+!.gitignore
+!README.md
+!assets/
+!model/
+!presentation/
+!assets/rocket.png
+!model/PLBP-SG1-A04.step
+!model/layout.pdf
+!model/viewer.html
+!presentation/PLBP-SG1.pdf
+!presentation/PLBP-SG1.pptx
+!presentation/index.html
