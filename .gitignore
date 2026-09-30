@@ -1,10 +1,12 @@
-# Publish only reviewed result files. Everything else is excluded.
+# Publish reviewed result files only.
 *
-!.gitignore
-!README.md
 !assets/
 !model/
 !presentation/
+!simulation/
+!simulation/figures/
+!.gitignore
+!README.md
 !assets/rocket.png
 !model/PLBP-SG1-A04.step
 !model/layout.pdf
@@ -12,3 +14,16 @@
 !presentation/PLBP-SG1.pdf
 !presentation/PLBP-SG1.pptx
 !presentation/index.html
+!simulation/K535W-REF.rse
+!simulation/PLBP-SG1-A04-OR01.ork
+!simulation/README.md
+!simulation/calm.csv
+!simulation/figures/balance-pressure.png
+!simulation/figures/flight.png
+!simulation/fine_step.csv
+!simulation/mass-properties.csv
+!simulation/report.html
+!simulation/short_guide.csv
+!simulation/summary.csv
+!simulation/wind3.csv
+!simulation/wind6.csv
