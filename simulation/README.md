@@ -103,3 +103,7 @@ CP — точка результирующей нормальной аэроди
 Источники методов: [документация OpenRocket](https://openrocket.readthedocs.io/en/latest/user_guide/advanced_flight_simulation.html), [техническое описание](https://openrocket.sourceforge.net/techdoc.pdf), [штатная остановка на апогее в 24.12](https://github.com/openrocket/openrocket/blob/release-24.12/core/src/main/java/info/openrocket/core/simulation/listeners/system/ApogeeEndListener.java). Документация latest может описывать функции новее 24.12; данный файл проверен именно в 24.12.
 
 CSV: все заголовки содержат SI-единицы; `aoa_rad` и угловые скорости — радианы, `stability_cal` — диаметры корпуса, `cg_m`/`cp_m` — от носа, `east_m`/`north_m` — локальное смещение, `ground_speed_m_s` — полная скорость относительно земли, `air_speed_m_s` — относительно воздуха. `q_Pa` вычислен из выходов атмосферы и числа Маха OpenRocket; остальные столбцы — выходы симулятора. Больше знаков в CSV нужно для воспроизводимости, а не для обещания такой точности.
+
+## Расширение OR02
+
+[Новая серия из 15 расчётных случаев](or02/README.md): поверхность, температура, высота площадки, запас массы, профили ветра и примерочный E01.

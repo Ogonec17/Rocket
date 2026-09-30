@@ -1,14 +1,24 @@
-# Publish reviewed result files only.
+# Reviewed result files only.
 *
 !assets/
 !model/
+!model/internal-e01/
 !presentation/
 !simulation/
 !simulation/figures/
+!simulation/or02/
 !.gitignore
 !README.md
 !assets/rocket.png
 !model/PLBP-SG1-A04.step
+!model/internal-e01/PLBP-SG1-E01.step
+!model/internal-e01/README.md
+!model/internal-e01/assembly.png
+!model/internal-e01/fit-parts.zip
+!model/internal-e01/interfaces.pdf
+!model/internal-e01/parts.csv
+!model/internal-e01/underside.png
+!model/internal-e01/viewer.html
 !model/layout.pdf
 !model/viewer.html
 !presentation/PLBP-SG1.pdf
@@ -22,6 +32,11 @@
 !simulation/figures/flight.png
 !simulation/fine_step.csv
 !simulation/mass-properties.csv
+!simulation/or02/OR02-models.zip
+!simulation/or02/README.md
+!simulation/or02/pressure-lag.png
+!simulation/or02/sensitivity.png
+!simulation/or02/summary.csv
 !simulation/report.html
 !simulation/short_guide.csv
 !simulation/summary.csv

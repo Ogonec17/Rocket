@@ -1,0 +1,30 @@
+name,label,kind,mass_g,volume_mm3,material_density_g_cm3,material
+DeckStrapSlot7,E01 лоток с окнами и крепёжными отверстиями,structure,93.16812509559306,50361.14870032057,1.85,GFRP assumed rho1.85
+GuideRail0,E01 боковая опора 1,structure,14.208,7680.0,1.85,GFRP assumed rho1.85
+GuideRail1,E01 боковая опора 2,structure,14.208,7680.0,1.85,GFRP assumed rho1.85
+LoggerMount3,Кассета самописца: открытые каналы давления,structure,30.902539124835304,24332.707972311262,1.27,PETG fit prototype; rho1.27; no allowable strength
+LoggerLidWindow1,Решётчатая крышка самописца: фиксация двумя лентами,structure,6.4389,5070.0,1.27,PETG fit prototype; rho1.27; no allowable strength
+BatteryStrapSlot3,"Держатель основной батареи: бортики, вывод провода, две ленты",structure,19.795754124835284,15587.207972311247,1.27,PETG fit prototype; rho1.27; no allowable strength
+LoggerBolt0,Logger M3×10: условный крепёж 1,fastener,1.0189146302943697,129.79804207571587,7.85,Nominal fastener steel rho7.85
+LoggerNut0,Logger гайка M3: цилиндрический габарит 1,fastener,0.4531551053262432,57.726765009712516,7.85,Nominal fastener steel rho7.85
+LoggerBolt1,Logger M3×10: условный крепёж 2,fastener,1.0189146302943697,129.79804207571587,7.85,Nominal fastener steel rho7.85
+LoggerNut1,Logger гайка M3: цилиндрический габарит 2,fastener,0.4531551053262432,57.726765009712516,7.85,Nominal fastener steel rho7.85
+LoggerBolt2,Logger M3×10: условный крепёж 3,fastener,1.0189146302943697,129.79804207571587,7.85,Nominal fastener steel rho7.85
+LoggerNut2,Logger гайка M3: цилиндрический габарит 3,fastener,0.4531551053262432,57.726765009712516,7.85,Nominal fastener steel rho7.85
+LoggerBolt3,Logger M3×10: условный крепёж 4,fastener,1.0189146302943697,129.79804207571587,7.85,Nominal fastener steel rho7.85
+LoggerNut3,Logger гайка M3: цилиндрический габарит 4,fastener,0.4531551053262432,57.726765009712516,7.85,Nominal fastener steel rho7.85
+BatteryBolt0,Battery M3×10: условный крепёж 1,fastener,1.01891463029437,129.7980420757159,7.85,Nominal fastener steel rho7.85
+BatteryNut0,Battery гайка M3: цилиндрический габарит 1,fastener,0.4531551053262432,57.726765009712516,7.85,Nominal fastener steel rho7.85
+BatteryBolt1,Battery M3×10: условный крепёж 2,fastener,1.01891463029437,129.7980420757159,7.85,Nominal fastener steel rho7.85
+BatteryNut1,Battery гайка M3: цилиндрический габарит 2,fastener,0.4531551053262432,57.726765009712516,7.85,Nominal fastener steel rho7.85
+BatteryBolt2,Battery M3×10: условный крепёж 3,fastener,1.018914630294359,129.79804207571453,7.85,Nominal fastener steel rho7.85
+BatteryNut2,Battery гайка M3: цилиндрический габарит 3,fastener,0.45315510532624326,57.72676500971252,7.85,Nominal fastener steel rho7.85
+BatteryBolt3,Battery M3×10: условный крепёж 4,fastener,1.018914630294359,129.79804207571453,7.85,Nominal fastener steel rho7.85
+BatteryNut3,Battery гайка M3: цилиндрический габарит 4,fastener,0.45315510532624326,57.72676500971252,7.85,Nominal fastener steel rho7.85
+MainAvionics,Основной борт · габарит A04,reference,180,72960.0,,Assigned assembly envelope
+Logger,Самописец организатора · габарит A04,reference,30,45360.0,,Assigned assembly envelope
+MainPower,Основное питание · габарит A04,reference,100,61600.0,,Assigned assembly envelope
+Search,Независимый поиск · габарит A04,reference,80,24000.0,,Assigned assembly envelope
+SearchPower,Питание поиска · габарит A04,reference,40,15680.0,,Assigned assembly envelope
+AvionicsRing0,Опорное кольцо электроники 1 · габарит A04,reference,38.63398384334011,20883.234509913567,,Assigned assembly envelope
+AvionicsRing1,Опорное кольцо электроники 2 · габарит A04,reference,38.63398384334011,20883.234509913567,,Assigned assembly envelope
