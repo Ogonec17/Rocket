@@ -1,0 +1,14 @@
+net,from,to,purpose,status
+BAT+,BT1 PCM positive,U1 JST battery positive,Own 1S supply; verify actual polarity,CANDIDATE
+GND_M01,BT1 PCM negative,U1 JST battery negative,Local ground only; no flight connection to main board,DESIGNED_NOT_BUILT
+3V3,U1 3V3,BZ1 positive; D1 cathode; C1 terminal1; C2 positive,Switched sound supply,DESIGNED_NOT_BUILT
+BZ_LOW,BZ1 negative,Q1 drain pin3; D1 anode,Low side sound switching,DESIGNED_NOT_BUILT
+GATE,U1 D5,R1 100ohm then Q1 gate pin1,Logic output only,DESIGNED_NOT_BUILT
+GATE_PULLDOWN,Q1 gate pin1,R2 100kohm then GND_M01,Keep sound off during reset,DESIGNED_NOT_BUILT
+SOURCE,Q1 source pin2,GND_M01,AO3400A local return,DESIGNED_NOT_BUILT
+LED,U1 D9,R3 470ohm then LED1 anode,Status light; external optical path unresolved,DESIGNED_NOT_BUILT
+LED_RETURN,LED1 cathode,GND_M01,Local return,DESIGNED_NOT_BUILT
+INHIBIT,U1 D6,S2 closed loop then GND_M01,Closed inhibits; open manually arms after debounce,DESIGNED_NOT_BUILT
+TEST,U1 D12,S3 momentary then GND_M01,At most two seconds test in SAFE,DESIGNED_NOT_BUILT
+POWER_OFF,U1 EN,S1 closed then GND_M01,Disable regulator; not a battery disconnect,DESIGNED_NOT_BUILT
+CAP_RETURN,C1 terminal2; C2 negative,GND_M01,Local bypass return near U1 and Q1,DESIGNED_NOT_BUILT

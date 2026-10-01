@@ -1,0 +1,2 @@
+id,mass_kg,cg_x_m,apogee_m,max_q_Pa,rail_exit_speed_m_s,max_mach,min_stability_air_speed_ge20_cal,status,physical_validation
+e02,5.931790714488936,0.9411779389341709,1487.6422681936879,25285.97690297825,28.93676963312489,0.607339639218672,2.352727623500417,PASS_NUMERICAL_ONLY,False

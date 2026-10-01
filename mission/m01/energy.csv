@@ -1,0 +1,11 @@
+parameter,value,status
+duration_target_h,6,ASSUMED_NOT_MEASURED
+nominal_battery_Wh,4.44,ASSUMED_NOT_MEASURED
+current_3V3_mA,88.9,ASSUMED_NOT_MEASURED
+minimum_battery_Wh,4.218,ASSUMED_NOT_MEASURED
+assumed_power_W,0.29337,ASSUMED_NOT_MEASURED
+required_nameplate_Wh,3.6979411764705885,ASSUMED_NOT_MEASURED
+derated_duration_with_reserve_h,6.843808160343593,ASSUMED_NOT_MEASURED
+peak_current_3V3_mA,123.0,ASSUMED_NOT_MEASURED
+all_currents_assumed_not_measured,True,ASSUMED_NOT_MEASURED
+physical_validation,False,ASSUMED_NOT_MEASURED

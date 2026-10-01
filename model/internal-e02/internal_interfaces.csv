@@ -1,0 +1,14 @@
+id,zone_x_mm,assembly,mechanical_interface,electrical_interface,service,status
+I01,0-345,Nose and shoulder,A04 shoulder OD96.4; joint retention open,None,Remove nose by defined joint after it is designed,LAYOUT_ONLY
+I02,365-585,Payload 1500g design /1000g PDF,Diameter84 length220 includes own recovery; confirm 1500g dimensions,Independent payload; no assumed umbilical,Own model removable before packing,ORGANIZER_INTERFACE_OPEN
+I03,600-606,Payload stop,Existing GFRP annulus; axial fixation/load path open,None,Must permit packing and extraction,LOAD_PATH_OPEN
+I04,620-810,Carrier recovery package,Diameter86 length190 assigned envelope; tether anchors and separation open,Controller event and feedback interfaces not yet wired,Inspect pack and tethers between flights,DESIGN_OPEN
+I05,819-1071,Avionics bay,Tray240x80; two existing end rings; final retention to body open,Main / M01 / logger kept distinct,Extractable tray requires body access revision,FIT_MODEL
+I06,848-947,Main board carrier,Shared four logger M3 screws; board protected envelope raised4mm,Main power; sensors; storage; radio to own ground station,Real component PCB and connectors still unselected,FIT_MODEL
+I07,845.5-938.5,Organizer logger,Cavity87x33x21 for85x31x19 max; lid and padding; vent path,Organizer interface unknown; do not invent connector,Access from underside after extracting tray,FIT_CHECKED
+I08,965-1045,Main battery carrier,Protected envelope70x40x22; matching strap slots,Battery and regulator to be selected for main energy budget,Replace without pressure on cell; timing on assembled body untested,FIT_MODEL
+I09,944-1053,M01 search cassette,Case106x44; holes X952/1048 Y+-29; M3 budget allocated,Own 1S1200mAh; Feather RP2040; sound/LED; no main-board supply,Own inhibit test and EN switches need external panel,CAD_AND_SOFTWARE_PROTOTYPE
+I10,947-1016,M01 battery tray,Pocket65x36.3; TDS maximum62.3x35.3x5.3; separate cover,Local JST battery connection; verify polarity,Padding lid retention strain relief remain to specify,FIT_CHECKED
+I11,1091-1179,Recovery control bay,Protected80x60x24 envelope in88x66 tray; body anchorage open,Separate power budget and actuator architecture not released,External enable and physical interlocks per rules not implemented,FIT_MODEL_ONLY
+I12,1195-1570,Commercial motor interface,Mount ID54.8; K535W reference54x358; retention and heat barriers open,No mission-control connection,Organizer motor and legal launch procedure govern,REFERENCE_ONLY
+I13,whole bay,Wiring and service loops,Keep clear of logger air path and movable recovery parts,Separate power returns and keyed connectors; final harness not routed,Document connectors and timed battery replacement,HARNESS_OPEN
