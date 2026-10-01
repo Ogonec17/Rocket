@@ -1,0 +1,188 @@
+position,drawing_id,name,label,assembly_step,quantity,status
+1,PLBP-D01-P001,GuideRail0,E01 боковая опора 1,A50,1,PLANNED_NOT_EXECUTED
+2,PLBP-D01-P002,GuideRail1,E01 боковая опора 2,A50,1,PLANNED_NOT_EXECUTED
+3,PLBP-D01-P003,LoggerMount3,Кассета самописца: открытые каналы давления,A50,1,PLANNED_NOT_EXECUTED
+4,PLBP-D01-P004,LoggerLidWindow1,Решётчатая крышка самописца: фиксация двумя лентами,A50,1,PLANNED_NOT_EXECUTED
+5,PLBP-D01-P005,BatteryStrapSlot3,"Держатель основной батареи: бортики, вывод провода, две ленты",A50,1,PLANNED_NOT_EXECUTED
+6,PLBP-D01-P006,LoggerBolt0,Logger M3×10: условный крепёж 1,A50,1,PLANNED_NOT_EXECUTED
+7,PLBP-D01-P007,LoggerNut0,Logger гайка M3: цилиндрический габарит 1,A50,1,PLANNED_NOT_EXECUTED
+8,PLBP-D01-P008,LoggerBolt1,Logger M3×10: условный крепёж 2,A50,1,PLANNED_NOT_EXECUTED
+9,PLBP-D01-P009,LoggerNut1,Logger гайка M3: цилиндрический габарит 2,A50,1,PLANNED_NOT_EXECUTED
+10,PLBP-D01-P010,LoggerBolt2,Logger M3×10: условный крепёж 3,A50,1,PLANNED_NOT_EXECUTED
+11,PLBP-D01-P011,LoggerNut2,Logger гайка M3: цилиндрический габарит 3,A50,1,PLANNED_NOT_EXECUTED
+12,PLBP-D01-P012,LoggerBolt3,Logger M3×10: условный крепёж 4,A50,1,PLANNED_NOT_EXECUTED
+13,PLBP-D01-P013,LoggerNut3,Logger гайка M3: цилиндрический габарит 4,A50,1,PLANNED_NOT_EXECUTED
+14,PLBP-D01-P014,BatteryBolt0,Battery M3×10: условный крепёж 1,A50,1,PLANNED_NOT_EXECUTED
+15,PLBP-D01-P015,BatteryNut0,Battery гайка M3: цилиндрический габарит 1,A50,1,PLANNED_NOT_EXECUTED
+16,PLBP-D01-P016,BatteryBolt1,Battery M3×10: условный крепёж 2,A50,1,PLANNED_NOT_EXECUTED
+17,PLBP-D01-P017,BatteryNut1,Battery гайка M3: цилиндрический габарит 2,A50,1,PLANNED_NOT_EXECUTED
+18,PLBP-D01-P018,BatteryBolt2,Battery M3×10: условный крепёж 3,A50,1,PLANNED_NOT_EXECUTED
+19,PLBP-D01-P019,BatteryNut2,Battery гайка M3: цилиндрический габарит 3,A50,1,PLANNED_NOT_EXECUTED
+20,PLBP-D01-P020,BatteryBolt3,Battery M3×10: условный крепёж 4,A50,1,PLANNED_NOT_EXECUTED
+21,PLBP-D01-P021,BatteryNut3,Battery гайка M3: цилиндрический габарит 4,A50,1,PLANNED_NOT_EXECUTED
+22,PLBP-D01-P022,Logger,Самописец организатора · габарит A04,A50,1,PLANNED_NOT_EXECUTED
+23,PLBP-D01-P023,MainPower,Основное питание · габарит A04,A50,1,PLANNED_NOT_EXECUTED
+24,PLBP-D01-P024,MainHeadClearance3,E02 опора основного блока: общий крепёж с кассетой самописца,A50,1,PLANNED_NOT_EXECUTED
+25,PLBP-D01-P025,BeaconMount3,"M01 несущая кассета: электроника, питание, звуковые окна",A60,1,PLANNED_NOT_EXECUTED
+26,PLBP-D01-P026,M01BatteryTray,M01 ложемент батареи: жёсткая защита без обжатия ячейки,A60,1,PLANNED_NOT_EXECUTED
+27,PLBP-D01-P027,M01BatteryCover,M01 защитная крышка батареи: зазор 1 мм,A60,1,PLANNED_NOT_EXECUTED
+28,PLBP-D01-P028,M01ShelfSupport0,M01 продольная опора полки 1,A60,1,PLANNED_NOT_EXECUTED
+29,PLBP-D01-P029,M01ShelfSupport1,M01 продольная опора полки 2,A60,1,PLANNED_NOT_EXECUTED
+30,PLBP-D01-P030,M01BoardSupport0,M01 примерочная опора платы 1,A60,1,PLANNED_NOT_EXECUTED
+31,PLBP-D01-P031,M01BoardSupport1,M01 примерочная опора платы 2,A60,1,PLANNED_NOT_EXECUTED
+32,PLBP-D01-P032,M01Battery,M01 LiPo #258 · максимальный габарит TDS с PCM,A60,1,PLANNED_NOT_EXECUTED
+33,PLBP-D01-P033,M01Buzzer,M01 CMI-1295-85T · звуковой индикатор,A60,1,PLANNED_NOT_EXECUTED
+34,PLBP-D01-P034,M01BuzzerLead0,"M01 вывод индикатора: масса входит в 1,6 г",A60,1,PLANNED_NOT_EXECUTED
+35,PLBP-D01-P035,M01BuzzerLead1,"M01 вывод индикатора: масса входит в 1,6 г",A60,1,PLANNED_NOT_EXECUTED
+36,PLBP-D01-P036,M01DriverHole1,"M01 плата ключа и диода · отверстия индикатора с шагом 7,6 мм",A60,1,PLANNED_NOT_EXECUTED
+37,PLBP-D01-P037,M01DriverSupport0,M01 опора платы ключа 1,A60,1,PLANNED_NOT_EXECUTED
+38,PLBP-D01-P038,M01DriverSupport1,M01 опора платы ключа 2,A60,1,PLANNED_NOT_EXECUTED
+39,PLBP-D01-P039,M01DriverSupport2,M01 опора платы ключа 3,A60,1,PLANNED_NOT_EXECUTED
+40,PLBP-D01-P040,M01DriverSupport3,M01 опора платы ключа 4,A60,1,PLANNED_NOT_EXECUTED
+41,PLBP-D01-P041,E02DeckHole3,E02 лоток с креплением автономной кассеты,A50,1,PLANNED_NOT_EXECUTED
+42,PLBP-D01-P042,M01Bolt0,M01 M3×10 · условный крепёж 1,A60,1,PLANNED_NOT_EXECUTED
+43,PLBP-D01-P043,M01Nut0,M01 гайка M3 · габарит 1,A60,1,PLANNED_NOT_EXECUTED
+44,PLBP-D01-P044,M01Bolt1,M01 M3×10 · условный крепёж 2,A60,1,PLANNED_NOT_EXECUTED
+45,PLBP-D01-P045,M01Nut1,M01 гайка M3 · габарит 2,A60,1,PLANNED_NOT_EXECUTED
+46,PLBP-D01-P046,M01Bolt2,M01 M3×10 · условный крепёж 3,A60,1,PLANNED_NOT_EXECUTED
+47,PLBP-D01-P047,M01Nut2,M01 гайка M3 · габарит 3,A60,1,PLANNED_NOT_EXECUTED
+48,PLBP-D01-P048,M01Bolt3,M01 M3×10 · условный крепёж 4,A60,1,PLANNED_NOT_EXECUTED
+49,PLBP-D01-P049,M01Nut3,M01 гайка M3 · габарит 4,A60,1,PLANNED_NOT_EXECUTED
+50,PLBP-D01-P050,RecoveryCarrier,E02 примерочная опора блока спасения: крепление к корпусу открыто,A70,1,PLANNED_NOT_EXECUTED
+51,PLBP-D01-P051,BodyFix0_610_2,Корпус · секция payload,A90,1,PLANNED_NOT_EXECUTED
+52,PLBP-D01-P052,BodyFix1_815_2,Корпус · секция recovery,A90,1,PLANNED_NOT_EXECUTED
+53,PLBP-D01-P053,GuideBodyHole930,Корпус · секция avionics,A90,1,PLANNED_NOT_EXECUTED
+54,PLBP-D01-P054,BodyFix3_1190_2,Корпус · секция control,A90,1,PLANNED_NOT_EXECUTED
+55,PLBP-D01-P055,GuideBodyHole1450,Корпус · секция motor,A90,1,PLANNED_NOT_EXECUTED
+56,PLBP-D01-P056,JointScrew610_596_0SocketCut,"Стык 610 · M3, условная длина",A90,1,PLANNED_NOT_EXECUTED
+57,PLBP-D01-P057,JointNut610_596_0,"Стык 610 · закладная гайка, фиксация требует разработки",A90,1,PLANNED_NOT_EXECUTED
+58,PLBP-D01-P058,JointScrew610_596_1SocketCut,"Стык 610 · M3, условная длина",A90,1,PLANNED_NOT_EXECUTED
+59,PLBP-D01-P059,JointNut610_596_1,"Стык 610 · закладная гайка, фиксация требует разработки",A90,1,PLANNED_NOT_EXECUTED
+60,PLBP-D01-P060,JointScrew610_596_2SocketCut,"Стык 610 · M3, условная длина",A90,1,PLANNED_NOT_EXECUTED
+61,PLBP-D01-P061,JointNut610_596_2,"Стык 610 · закладная гайка, фиксация требует разработки",A90,1,PLANNED_NOT_EXECUTED
+62,PLBP-D01-P062,JointScrew610_624_0SocketCut,"Стык 610 · M3, условная длина",A90,1,PLANNED_NOT_EXECUTED
+63,PLBP-D01-P063,JointNut610_624_0,"Стык 610 · закладная гайка, фиксация требует разработки",A90,1,PLANNED_NOT_EXECUTED
+64,PLBP-D01-P064,JointScrew610_624_1SocketCut,"Стык 610 · M3, условная длина",A90,1,PLANNED_NOT_EXECUTED
+65,PLBP-D01-P065,JointNut610_624_1,"Стык 610 · закладная гайка, фиксация требует разработки",A90,1,PLANNED_NOT_EXECUTED
+66,PLBP-D01-P066,JointScrew610_624_2SocketCut,"Стык 610 · M3, условная длина",A90,1,PLANNED_NOT_EXECUTED
+67,PLBP-D01-P067,JointNut610_624_2,"Стык 610 · закладная гайка, фиксация требует разработки",A90,1,PLANNED_NOT_EXECUTED
+68,PLBP-D01-P068,CouplerHole610_624_2,Стык X610 · внутренняя втулка 40 мм,A90,1,PLANNED_NOT_EXECUTED
+69,PLBP-D01-P069,JointGasket610,"Стык X610 · прокладка, кандидат",A90,1,PLANNED_NOT_EXECUTED
+70,PLBP-D01-P070,JointScrew815_801_0SocketCut,"Стык 815 · M3, условная длина",A90,1,PLANNED_NOT_EXECUTED
+71,PLBP-D01-P071,JointNut815_801_0,"Стык 815 · закладная гайка, фиксация требует разработки",A90,1,PLANNED_NOT_EXECUTED
+72,PLBP-D01-P072,JointScrew815_801_1SocketCut,"Стык 815 · M3, условная длина",A90,1,PLANNED_NOT_EXECUTED
+73,PLBP-D01-P073,JointNut815_801_1,"Стык 815 · закладная гайка, фиксация требует разработки",A90,1,PLANNED_NOT_EXECUTED
+74,PLBP-D01-P074,JointScrew815_801_2SocketCut,"Стык 815 · M3, условная длина",A90,1,PLANNED_NOT_EXECUTED
+75,PLBP-D01-P075,JointNut815_801_2,"Стык 815 · закладная гайка, фиксация требует разработки",A90,1,PLANNED_NOT_EXECUTED
+76,PLBP-D01-P076,JointScrew815_829_0SocketCut,"Стык 815 · M3, условная длина",A90,1,PLANNED_NOT_EXECUTED
+77,PLBP-D01-P077,JointNut815_829_0,"Стык 815 · закладная гайка, фиксация требует разработки",A90,1,PLANNED_NOT_EXECUTED
+78,PLBP-D01-P078,JointScrew815_829_1SocketCut,"Стык 815 · M3, условная длина",A90,1,PLANNED_NOT_EXECUTED
+79,PLBP-D01-P079,JointNut815_829_1,"Стык 815 · закладная гайка, фиксация требует разработки",A90,1,PLANNED_NOT_EXECUTED
+80,PLBP-D01-P080,JointScrew815_829_2SocketCut,"Стык 815 · M3, условная длина",A90,1,PLANNED_NOT_EXECUTED
+81,PLBP-D01-P081,JointNut815_829_2,"Стык 815 · закладная гайка, фиксация требует разработки",A90,1,PLANNED_NOT_EXECUTED
+82,PLBP-D01-P082,CouplerHole815_829_2,Стык X815 · внутренняя втулка 40 мм,A90,1,PLANNED_NOT_EXECUTED
+83,PLBP-D01-P083,JointGasket815,"Стык X815 · прокладка, кандидат",A90,1,PLANNED_NOT_EXECUTED
+84,PLBP-D01-P084,JointScrew1090_1076_0SocketCut,"Стык 1090 · M3, условная длина",A90,1,PLANNED_NOT_EXECUTED
+85,PLBP-D01-P085,JointNut1090_1076_0,"Стык 1090 · закладная гайка, фиксация требует разработки",A90,1,PLANNED_NOT_EXECUTED
+86,PLBP-D01-P086,JointScrew1090_1076_1SocketCut,"Стык 1090 · M3, условная длина",A90,1,PLANNED_NOT_EXECUTED
+87,PLBP-D01-P087,JointNut1090_1076_1,"Стык 1090 · закладная гайка, фиксация требует разработки",A90,1,PLANNED_NOT_EXECUTED
+88,PLBP-D01-P088,JointScrew1090_1076_2SocketCut,"Стык 1090 · M3, условная длина",A90,1,PLANNED_NOT_EXECUTED
+89,PLBP-D01-P089,JointNut1090_1076_2,"Стык 1090 · закладная гайка, фиксация требует разработки",A90,1,PLANNED_NOT_EXECUTED
+90,PLBP-D01-P090,JointScrew1090_1104_0SocketCut,"Стык 1090 · M3, условная длина",A90,1,PLANNED_NOT_EXECUTED
+91,PLBP-D01-P091,JointNut1090_1104_0,"Стык 1090 · закладная гайка, фиксация требует разработки",A90,1,PLANNED_NOT_EXECUTED
+92,PLBP-D01-P092,JointScrew1090_1104_1SocketCut,"Стык 1090 · M3, условная длина",A90,1,PLANNED_NOT_EXECUTED
+93,PLBP-D01-P093,JointNut1090_1104_1,"Стык 1090 · закладная гайка, фиксация требует разработки",A90,1,PLANNED_NOT_EXECUTED
+94,PLBP-D01-P094,JointScrew1090_1104_2SocketCut,"Стык 1090 · M3, условная длина",A90,1,PLANNED_NOT_EXECUTED
+95,PLBP-D01-P095,JointNut1090_1104_2,"Стык 1090 · закладная гайка, фиксация требует разработки",A90,1,PLANNED_NOT_EXECUTED
+96,PLBP-D01-P096,CouplerHole1090_1104_2,Стык X1090 · внутренняя втулка 40 мм,A90,1,PLANNED_NOT_EXECUTED
+97,PLBP-D01-P097,JointGasket1090,"Стык X1090 · прокладка, кандидат",A90,1,PLANNED_NOT_EXECUTED
+98,PLBP-D01-P098,JointScrew1190_1176_0SocketCut,"Стык 1190 · M3, условная длина",A90,1,PLANNED_NOT_EXECUTED
+99,PLBP-D01-P099,JointNut1190_1176_0,"Стык 1190 · закладная гайка, фиксация требует разработки",A90,1,PLANNED_NOT_EXECUTED
+100,PLBP-D01-P100,JointScrew1190_1176_1SocketCut,"Стык 1190 · M3, условная длина",A90,1,PLANNED_NOT_EXECUTED
+101,PLBP-D01-P101,JointNut1190_1176_1,"Стык 1190 · закладная гайка, фиксация требует разработки",A90,1,PLANNED_NOT_EXECUTED
+102,PLBP-D01-P102,JointScrew1190_1176_2SocketCut,"Стык 1190 · M3, условная длина",A90,1,PLANNED_NOT_EXECUTED
+103,PLBP-D01-P103,JointNut1190_1176_2,"Стык 1190 · закладная гайка, фиксация требует разработки",A90,1,PLANNED_NOT_EXECUTED
+104,PLBP-D01-P104,JointScrew1190_1204_0SocketCut,"Стык 1190 · M3, условная длина",A90,1,PLANNED_NOT_EXECUTED
+105,PLBP-D01-P105,JointNut1190_1204_0,"Стык 1190 · закладная гайка, фиксация требует разработки",A90,1,PLANNED_NOT_EXECUTED
+106,PLBP-D01-P106,JointScrew1190_1204_1SocketCut,"Стык 1190 · M3, условная длина",A90,1,PLANNED_NOT_EXECUTED
+107,PLBP-D01-P107,JointNut1190_1204_1,"Стык 1190 · закладная гайка, фиксация требует разработки",A90,1,PLANNED_NOT_EXECUTED
+108,PLBP-D01-P108,JointScrew1190_1204_2SocketCut,"Стык 1190 · M3, условная длина",A90,1,PLANNED_NOT_EXECUTED
+109,PLBP-D01-P109,JointNut1190_1204_2,"Стык 1190 · закладная гайка, фиксация требует разработки",A90,1,PLANNED_NOT_EXECUTED
+110,PLBP-D01-P110,CouplerHole1190_1204_2,Стык X1190 · внутренняя втулка 40 мм,A90,1,PLANNED_NOT_EXECUTED
+111,PLBP-D01-P111,JointGasket1190,"Стык X1190 · прокладка, кандидат",A90,1,PLANNED_NOT_EXECUTED
+112,PLBP-D01-P112,ServiceRing0,"Кольцо съёмного лотка Ø93,6 · 1",A50,1,PLANNED_NOT_EXECUTED
+113,PLBP-D01-P113,ServiceRing1,"Кольцо съёмного лотка Ø93,6 · 2",A50,1,PLANNED_NOT_EXECUTED
+114,PLBP-D01-P114,NoseShellD01,Обтекатель · полая оболочка,A20,1,PLANNED_NOT_EXECUTED
+115,PLBP-D01-P115,NoseShoulderD01,Обтекатель · отдельная посадочная юбка,A20,1,PLANNED_NOT_EXECUTED
+116,PLBP-D01-P116,NoseBulkhead,Обтекатель · переборка под интерфейс возврата,A20,1,PLANNED_NOT_EXECUTED
+117,PLBP-D01-P117,NoseEye,"Обтекатель · рым, условная геометрия крепежа",A20,1,PLANNED_NOT_EXECUTED
+118,PLBP-D01-P118,NoseEyeWasher,Обтекатель · шайба рымового узла,A20,1,PLANNED_NOT_EXECUTED
+119,PLBP-D01-P119,PayloadBody,"Макет · оболочка Ø84, общий размер 220 мм",A30,1,PLANNED_NOT_EXECUTED
+120,PLBP-D01-P120,PayloadCapHoleFront3,Макет · съёмная торцевая крышка Front,A30,1,PLANNED_NOT_EXECUTED
+121,PLBP-D01-P121,PayloadCapHoleRear3,Макет · съёмная торцевая крышка Rear,A30,1,PLANNED_NOT_EXECUTED
+122,PLBP-D01-P122,PayloadRailBore0R,Макет · монтажная стойка 1,A30,1,PLANNED_NOT_EXECUTED
+123,PLBP-D01-P123,PayloadScrewF0,"Макет · винт M2, габарит",A30,1,PLANNED_NOT_EXECUTED
+124,PLBP-D01-P124,PayloadScrewR0,"Макет · винт M2, габарит",A30,1,PLANNED_NOT_EXECUTED
+125,PLBP-D01-P125,PayloadRailBore1R,Макет · монтажная стойка 2,A30,1,PLANNED_NOT_EXECUTED
+126,PLBP-D01-P126,PayloadScrewF1,"Макет · винт M2, габарит",A30,1,PLANNED_NOT_EXECUTED
+127,PLBP-D01-P127,PayloadScrewR1,"Макет · винт M2, габарит",A30,1,PLANNED_NOT_EXECUTED
+128,PLBP-D01-P128,PayloadRailBore2R,Макет · монтажная стойка 3,A30,1,PLANNED_NOT_EXECUTED
+129,PLBP-D01-P129,PayloadScrewF2,"Макет · винт M2, габарит",A30,1,PLANNED_NOT_EXECUTED
+130,PLBP-D01-P130,PayloadScrewR2,"Макет · винт M2, габарит",A30,1,PLANNED_NOT_EXECUTED
+131,PLBP-D01-P131,PayloadRailBore3R,Макет · монтажная стойка 4,A30,1,PLANNED_NOT_EXECUTED
+132,PLBP-D01-P132,PayloadScrewF3,"Макет · винт M2, габарит",A30,1,PLANNED_NOT_EXECUTED
+133,PLBP-D01-P133,PayloadScrewR3,"Макет · винт M2, габарит",A30,1,PLANNED_NOT_EXECUTED
+134,PLBP-D01-P134,PayloadCore,"Макет · объём собственной системы и балансировки, не разработан",A30,1,PLANNED_NOT_EXECUTED
+135,PLBP-D01-P135,PayloadSeat,Макет · опорное кольцо внутри втулки стыка,A30,1,PLANNED_NOT_EXECUTED
+136,PLBP-D01-P136,PayloadGuide0,Макет · радиальный направляющий башмак 1,A30,1,PLANNED_NOT_EXECUTED
+137,PLBP-D01-P137,PayloadGuide1,Макет · радиальный направляющий башмак 2,A30,1,PLANNED_NOT_EXECUTED
+138,PLBP-D01-P138,PayloadGuide2,Макет · радиальный направляющий башмак 3,A30,1,PLANNED_NOT_EXECUTED
+139,PLBP-D01-P139,RecoveryBag,Спасение · оболочка укладочного мешка,A80,1,PLANNED_NOT_EXECUTED
+140,PLBP-D01-P140,RecoveryBagEnd0,Спасение · торцевая ткань 1,A80,1,PLANNED_NOT_EXECUTED
+141,PLBP-D01-P141,RecoveryBagEnd1,Спасение · торцевая ткань 2,A80,1,PLANNED_NOT_EXECUTED
+142,PLBP-D01-P142,CanopyFold0,Спасение · складка купола 1 (условная укладка),A80,1,PLANNED_NOT_EXECUTED
+143,PLBP-D01-P143,CanopyFold1,Спасение · складка купола 2 (условная укладка),A80,1,PLANNED_NOT_EXECUTED
+144,PLBP-D01-P144,CanopyFold2,Спасение · складка купола 3 (условная укладка),A80,1,PLANNED_NOT_EXECUTED
+145,PLBP-D01-P145,CanopyFold3,Спасение · складка купола 4 (условная укладка),A80,1,PLANNED_NOT_EXECUTED
+146,PLBP-D01-P146,CanopyFold4,Спасение · складка купола 5 (условная укладка),A80,1,PLANNED_NOT_EXECUTED
+147,PLBP-D01-P147,CanopyFold5,Спасение · складка купола 6 (условная укладка),A80,1,PLANNED_NOT_EXECUTED
+148,PLBP-D01-P148,CanopyFold6,Спасение · складка купола 7 (условная укладка),A80,1,PLANNED_NOT_EXECUTED
+149,PLBP-D01-P149,CanopyFold7,Спасение · складка купола 8 (условная укладка),A80,1,PLANNED_NOT_EXECUTED
+150,PLBP-D01-P150,PackingBand0,Спасение · лента укладки 1,A80,1,PLANNED_NOT_EXECUTED
+151,PLBP-D01-P151,PackingBand1,Спасение · лента укладки 2,A80,1,PLANNED_NOT_EXECUTED
+152,PLBP-D01-P152,MainCablePort,Основной борт · корпус концептуального блока,A50,1,PLANNED_NOT_EXECUTED
+153,PLBP-D01-P153,MainLidD01,Основной борт · съёмная крышка,A50,1,PLANNED_NOT_EXECUTED
+154,PLBP-D01-P154,MainPCBPost0,Основной борт · опора платы 1,A50,1,PLANNED_NOT_EXECUTED
+155,PLBP-D01-P155,MainPCBPost1,Основной борт · опора платы 2,A50,1,PLANNED_NOT_EXECUTED
+156,PLBP-D01-P156,MainPCBPost2,Основной борт · опора платы 3,A50,1,PLANNED_NOT_EXECUTED
+157,PLBP-D01-P157,MainPCBPost3,Основной борт · опора платы 4,A50,1,PLANNED_NOT_EXECUTED
+158,PLBP-D01-P158,MainPCBMount3,"Основной борт · проектная плата размещения, не PCB для производства",A50,1,PLANNED_NOT_EXECUTED
+159,PLBP-D01-P159,MainLayoutMCU,"MCU · место на проектной плате, компонент не выбран",A50,1,PLANNED_NOT_EXECUTED
+160,PLBP-D01-P160,MainLayoutIMU,"IMU · место на проектной плате, компонент не выбран",A50,1,PLANNED_NOT_EXECUTED
+161,PLBP-D01-P161,MainLayoutBarometer,"Barometer · место на проектной плате, компонент не выбран",A50,1,PLANNED_NOT_EXECUTED
+162,PLBP-D01-P162,MainLayoutStorage,"Storage · место на проектной плате, компонент не выбран",A50,1,PLANNED_NOT_EXECUTED
+163,PLBP-D01-P163,MainLayoutRadio,"Radio · место на проектной плате, компонент не выбран",A50,1,PLANNED_NOT_EXECUTED
+164,PLBP-D01-P164,MainPowerSocket,Основной борт · габарит силового соединителя,A50,1,PLANNED_NOT_EXECUTED
+165,PLBP-D01-P165,RecoveryControlCase,"Блок спасения · корпус, отдельная подсистема",A70,1,PLANNED_NOT_EXECUTED
+166,PLBP-D01-P166,RecoveryControlLid,Блок спасения · крышка,A70,1,PLANNED_NOT_EXECUTED
+167,PLBP-D01-P167,RecoveryControlPCB,"Блок спасения · проектная плата, исполнительная схема не выпущена",A70,1,PLANNED_NOT_EXECUTED
+168,PLBP-D01-P168,RecoveryLayout0,Блок спасения · зарезервированное место компонента,A70,1,PLANNED_NOT_EXECUTED
+169,PLBP-D01-P169,RecoveryLayout1,Блок спасения · зарезервированное место компонента,A70,1,PLANNED_NOT_EXECUTED
+170,PLBP-D01-P170,MotorMountD01,Моторный отсек · монтажная труба,A40,1,PLANNED_NOT_EXECUTED
+171,PLBP-D01-P171,MotorRingLight02,Моторный отсек · кольцо с технологическими отверстиями 1,A40,1,PLANNED_NOT_EXECUTED
+172,PLBP-D01-P172,MotorRingLight12,Моторный отсек · кольцо с технологическими отверстиями 2,A40,1,PLANNED_NOT_EXECUTED
+173,PLBP-D01-P173,MotorReferenceD01,K535W · только паспортный габарит покупного двигателя,A40,1,PLANNED_NOT_EXECUTED
+174,PLBP-D01-P174,AftInterfacePlate,"Хвост · ответная плита, удержание конкретного двигателя уточнить",A40,1,PLANNED_NOT_EXECUTED
+175,PLBP-D01-P175,FinDetailed1,Стабилизатор 1 · сквозной корень и наружное перо,A40,1,PLANNED_NOT_EXECUTED
+176,PLBP-D01-P176,FinDetailed2,Стабилизатор 2 · сквозной корень и наружное перо,A40,1,PLANNED_NOT_EXECUTED
+177,PLBP-D01-P177,FinDetailed3,Стабилизатор 3 · сквозной корень и наружное перо,A40,1,PLANNED_NOT_EXECUTED
+178,PLBP-D01-P178,GuideFootBore0,Направляющая · площадка по кривизне корпуса 1,A100,1,PLANNED_NOT_EXECUTED
+179,PLBP-D01-P179,GuideSpoolBore0,"Направляющая · ползун, проектный габарит под примерку 1",A100,1,PLANNED_NOT_EXECUTED
+180,PLBP-D01-P180,GuideBolt0,"Направляющая · крепёж M3, габарит 1",A100,1,PLANNED_NOT_EXECUTED
+181,PLBP-D01-P181,GuideFootBore1,Направляющая · площадка по кривизне корпуса 2,A100,1,PLANNED_NOT_EXECUTED
+182,PLBP-D01-P182,GuideSpoolBore1,"Направляющая · ползун, проектный габарит под примерку 2",A100,1,PLANNED_NOT_EXECUTED
+183,PLBP-D01-P183,GuideBolt1,"Направляющая · крепёж M3, габарит 2",A100,1,PLANNED_NOT_EXECUTED
+184,PLBP-D01-P184,PowerCableSocket1,Основная батарея · габарит разъёма,A50,1,PLANNED_NOT_EXECUTED
+185,PLBP-D01-P185,MainHarness0,Провод питания · трассировка +,A50,1,PLANNED_NOT_EXECUTED
+186,PLBP-D01-P186,MainHarness1,Провод питания · трассировка −,A50,1,PLANNED_NOT_EXECUTED
+187,PLBP-D01-P187,M01FeatherManufacturer,"M01 · Feather RP2040, CAD изготовителя Adafruit",A60,1,PLANNED_NOT_EXECUTED
