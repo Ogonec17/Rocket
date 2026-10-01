@@ -1,0 +1,13 @@
+id,interface,nominal,status,required_evidence,change_propagation
+I01,Payload,1500 g; OD84 x220 mm,ORGANIZER_CONFIRMATION,Письменное ТЗ сезона; фактическая масса включая собственное спасение,Макет; носовой отсек; CG; спасение; ORK
+I02,Motor,Reference OD54 x358 mm;1264 g; mount ID54.8,VENDOR_DEPENDENT,Чертёж; допуски; массы до/после; CG; сертифицированная кривая; инструкция удержания и тепловой защиты,Хвост; удержание; силовая схема; CG; ORK
+I03,Rail,Guide centers X930 and1450 mm; angle60 deg,ORGANIZER_CONFIRMATION,Поперечник рельсы; длина; максимальный ползун; проверка без заедания на макете,Направляющие; нагрузка; аэродинамика
+I04,Logger,84 x30 x18 mm ±1 mm;30 g; X850,REGULATION_BASELINE,Реальный прибор; маркировка; удержание; доступ к памяти; защита,Кассета; масса; измерительный объём
+I05,Body joints,OD96.4 ID94 L40; body ID97; nominal radial gap0.3 mm,DESIGN_OPEN,Допуски; закладные; чертёж крепежа; испытания соединений,Стыки; масса; герметичность; аэродинамика
+I06,Avionics removal,Ring OD93.6 through sleeve ID94; nominal radial gap0.2 mm,DESIGN_OPEN,Цепь допусков; сборка с жгутом; доступ инструментов; повторная примерка,Кольца; кассета; смена питания
+I07,Feather RP2040,PCB50.8 x22.86; STEP envelope X51.946 mm incl USB,CANDIDATE_GEOMETRY_VERIFIED,Плата #4884; ревизия; масса; разъёмы и кабель USB; аппаратный тест,M01; энергооценка; кабельный объём
+I08,M01 battery,Adafruit258; max62.3 x35.3 x5.3 mm;23 g assigned,CANDIDATE,TDS и фактическая батарея; маркировка полярности; ёмкость; безопасная зарядка по инструкции,Лоток; питание; масса; обслуживание
+I09,Buzzer,CMI-1295-85T; max OD12.6 x10.7 mm,ACOUSTIC_PATH_OPEN,Излучатель; ток; макет внешнего акустического тракта; звуковой тест,M01; оболочка; канал давления
+I10,Recovery packing,Carrier envelope OD86 x190 mm;payload recovery inside OD84 x220,DESIGN_OPEN,Реальные купола и фалы; измеренные упаковки; извлечение; расчёт и испытание раскрытия,Спасение; отделение; масса; CG
+I11,Fins,3x;root200 tip90 span110 sweep70 thickness3; tabs X1340..1520,DESIGN_OPEN,Материал и укладка; крепление; допуски; нагрузка; изгиб и флаттер,Хвост; масса; аэродинамика; силовой расчёт
+I12,Barometric path,8x OD1.6 mm atX892; nose distance>=500 mm,BENCH_VALIDATION_OPEN,Герметизация; давление в приборном объёме с полностью собранным корпусом,Самописец; датчики; акустический тракт
