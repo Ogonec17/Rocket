@@ -5,6 +5,7 @@
 ![Н1 · внешний вид](assets/n1-isometric.png)
 
 - **Н1 R01 · Младший ГИРД** — [изометрия](assets/n1-isometric.png), [спереди](assets/n1-front.png), [сбоку](assets/n1-side.png), [сверху](assets/n1-top.png).
+- **Н2 R01 · Старший ГИРД** — [внешний вид](assets/n2-isometric.png).
 - **SG1 D01 · архивная концепция** — [внешний вид](assets/d01-isometric.png).
 - **Сайт-галерея** — скачайте репозиторий и откройте [index.html](index.html). Работает без установки и подключения к интернету. На GitHub HTML отображается как исходный код.
 
