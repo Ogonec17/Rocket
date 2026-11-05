@@ -1,0 +1,10 @@
+*.FCStd
+*.FCStd1
+*.step
+*.stp
+*.zip
+*.bundle
+*.ork
+*.rse
+private/
+source/
